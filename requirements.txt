@@ -1,4 +1,5 @@
 numpy
+python
 streamlit
 pandas
 yfinance
