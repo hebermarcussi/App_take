@@ -1,7 +1,3 @@
-datetime
-operator
-tkinter
-pyparsing
 streamlit
 pandas
 yfinance
