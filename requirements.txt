@@ -1,5 +1,5 @@
 numpy
-python
+SomePackage
 streamlit
 pandas
 yfinance
