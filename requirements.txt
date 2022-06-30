@@ -6,4 +6,4 @@ yfinance
 matplotlib
 plotly
 pip
-git+https://github.com/Quantreo/MetaTrader-5-AUTOMATED-TRADING-using-Python#egg=MetaTrader5
+metatrader5-5.0.37
