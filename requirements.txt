@@ -3,4 +3,4 @@ pandas
 yfinance
 matplotlib
 plotly
-MetaTrader5
+MetaTrader5-5.0.37
