@@ -3,4 +3,5 @@ pandas
 yfinance
 matplotlib
 plotly
+pip version 22.1.2
 MetaTrader5
