@@ -1,0 +1,11 @@
+ctypes
+datetime
+operator
+tkinter
+pyparsing
+streamlit
+pandas
+yfinance
+matplotlib
+plotly
+MetaTrader5
