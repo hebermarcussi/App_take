@@ -1,9 +1,6 @@
-numpy
-SomePackage
 streamlit
 pandas
 yfinance
 matplotlib
 plotly
-pip
 MetaTrader5
