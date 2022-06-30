@@ -6,4 +6,4 @@ yfinance
 matplotlib
 plotly
 pip
-MetaTrader5-5.0.37-cp39-cp39-win_amd64.whl
+MetaTrader5
